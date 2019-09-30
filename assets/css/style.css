@@ -1,0 +1,47 @@
+/* .col-md-12{
+    background-color: black;
+} */
+
+.container{
+    background-color: beige;
+    
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    padding: 20px;
+
+    
+}
+
+.body{
+    background-color: black;
+}
+
+.quote{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.aboutMeText{
+
+  text-align: center;  
+}
+
+.portfolioHeader{
+    text-align: center;
+}
+
+.portfolioApp{
+    text-align: center;
+}
+
+.footer{
+    color: white;
+    text-align: center
+}
+
+.btn{
+    text-align: center
+}
